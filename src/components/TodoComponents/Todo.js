@@ -8,7 +8,7 @@ const Todo = props => {
         onClick={() => props.toggleItem(props.item.id)}
       >
         <p>{props.item.task}</p>
-      </div>
+      </div> 
     ); 
   };
   
