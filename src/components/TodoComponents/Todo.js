@@ -10,7 +10,7 @@ const Todo = props => {
         <p>{props.item.task}</p>
       </div> 
     ); 
-  };
+  }; 
   
 
 
